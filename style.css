@@ -8,6 +8,8 @@ h1{
 section{
     display: flex;
     margin-bottom: 50px;
+    justify-content: space-between;
+    width: 100%;
 }
 
 .orange-color{
@@ -20,6 +22,8 @@ section{
 }
 .half-width img{
     width: 80%;
+    margin-top: 8%;
+    margin-left: 10%;
 
 }
 .link-button{
@@ -36,4 +40,21 @@ section{
 }
 .recipies{
     text-align: center;
+}
+
+.w3-width img{
+    width: 100%;
+    
+}
+
+.w3-width{
+    width: 90%;
+    padding:5% 5% 5%;
+    box-shadow: 10px 15px 40px  rgb(8, 8, 8);
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px 5px ;
+    text-align: center;
+    
 }
