@@ -60,3 +60,13 @@ section{
     font-size: small;
     
 }
+
+footer{
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    color: burlywood;
+}
