@@ -75,6 +75,23 @@ section{
 .yellow-color{
     color: burlywood;
 }
+.font-change{
+    font-weight: 200;
+}
+.sign-button{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    font-weight: 50;
+    margin-left: 5px;
+    border-radius: 5px;
+    
+    
+}
+
+.email{
+    text-align: center;
+}
 
 footer{
     height: 70px;
