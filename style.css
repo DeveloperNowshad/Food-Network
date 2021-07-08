@@ -2,6 +2,16 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color:lightgray;
 }
+.First-assaignment{
+    text-align: center;
+    font-style: italic;
+    font-weight: 300;
+    background-color: navy;
+    color: snow;
+    height: 70px;
+    width: 100%;
+}
+
 h1{
     font-size: 40px;
 }
@@ -54,7 +64,7 @@ section{
     border-radius: 20px;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 5px 5px ;
+    padding: 10px 10px ;
     text-align: center;
     background-color: white;
     font-size: small;
